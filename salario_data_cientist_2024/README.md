@@ -4,6 +4,8 @@ O principal objetivo deste projeto é analisar o conjunto de dados fornecido par
 
 ## 🚀 Começando
 
+<div align="center">
+<img src="https://github.com/Poppe0387/projetos/issues/3#issue-2508659184)" />
+</div>
 
 
-![alt text]("C:\Users\milla\Downloads\9d6fa0cd-b7bf-4cb7-a974-acafc60f1446.jpeg")
